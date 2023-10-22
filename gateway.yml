@@ -1,5 +1,2 @@
-jwtSettings:
-  issuer: muchik.pe,
-  audience: public,
-  secretKey: NABCEMNBWHASONMSRZPOUNABCEMNBWHASONMSRZPOUONS278650124508754329833,
-  lifetime: 18000
+name: muchik-gateway
+version: 1.0.0
