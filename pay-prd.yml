@@ -1,0 +1,2 @@
+connectionStrings:
+  qhatuConnection: Data Source=aws.com; Initial Catalog=qhatu; user id=sa; password=NewHorizons_2023@
